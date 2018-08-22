@@ -1,1 +1,1 @@
-# campaign-service
+# account-service
